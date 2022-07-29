@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Nate. Feel free to check out my website, [natefugal.tech](https://natefugal.tech/) if you want to learn more about me.
+
+I can't think up anything else to add here currently, so here it is. Nice and short.
+
+
 
 <!--
 **nfugal/nfugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
